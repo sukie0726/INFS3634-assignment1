@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Time</string>
+
+    <string name="sydney">Sydney</string>
+    <string name="Shanghai">Shanghai</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="chicago">Chicago</string>
+    <string name="london">London</string>
+
+</resources>
